@@ -27,7 +27,10 @@
 #   1.  Install all required dependencies (see: REQ. DEPENDENCIES section).  #
 #   2.  Verify that both files  spawn-lyrics2pw-windows.bat  and             # 
 #       manifest-lyrics2pw-embryo.py  are located in the same directory.     #
-#   3.  Run:  spawn-lyrics2pw-windows.bat                                    #
+#   3.  Run:                                                                 #
+#                                                                            #
+#           spawn-lyrics2pw-windows.bat                                      #
+#                                                                            #
 #   4.  Note:  lyrics2pw will be manifested in the .\lyrics2pw\ directory.   #
 #       To run lyrics2pw again, run one of the following commands:           #
 #                                                                            #
